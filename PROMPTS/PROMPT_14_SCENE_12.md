@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S12a_THE_WAIT.png` |
-| **LAST FRAME** | `FRAMES/S12b_END.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_12/S12a_THE_WAIT.png` |
+| **LAST FRAME** | `../SCENES/SCENE_12/S12b_END.png` |
 
 **FIRST:** Down the row of orange plastic chairs at night: five men collapsed in different ways
 under a single tube, Amin at the far end with his head back and eyes closed, the envelope

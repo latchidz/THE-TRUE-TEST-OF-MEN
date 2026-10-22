@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S06a_GROCERY.png` |
-| **LAST FRAME** | `FRAMES/S06b_HAMZA_NO.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_06/S06a_GROCERY.png` |
+| **LAST FRAME** | `../SCENES/SCENE_06/S06b_HAMZA_NO.png` |
 
 **FIRST:** From the pavement into the shop: Hamza behind the old wooden counter, both hands on
 it, head lowered, eyes on the scale; Amin's dark shoulder at the near left.

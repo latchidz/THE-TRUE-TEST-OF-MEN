@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S01b_FATHER_BREAKS.png` |
-| **LAST FRAME** | `FRAMES/S01c_HANDS.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_01/S01b_FATHER_BREAKS.png` |
+| **LAST FRAME** | `../SCENES/SCENE_01/S01c_HANDS.png` |
 
 **FIRST:** Reverse angle: the doctor's blurred shoulder at frame left, the father's face in
 three-quarter view, eyes on the doctor.

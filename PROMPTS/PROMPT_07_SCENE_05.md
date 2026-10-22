@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S05a_PHONE_SHOP.png` |
-| **LAST FRAME** | `FRAMES/S05b_KARIM_NO.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_05/S05a_PHONE_SHOP.png` |
+| **LAST FRAME** | `../SCENES/SCENE_05/S05b_KARIM_NO.png` |
 
 **FIRST:** From the glass door down the length of the shop: Karim behind the counter, forearms
 on the glass, eyes down on the phone he is working on; Amin's dark shoulder at the

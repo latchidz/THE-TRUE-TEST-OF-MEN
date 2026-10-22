@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S08a_THE_PRICE.png` |
-| **LAST FRAME** | `FRAMES/S08b_THE_HAND.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_08/S08a_THE_PRICE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_08/S08b_THE_HAND.png` |
 
 **FIRST:** From the doorway: Amin standing at the near edge of the desk, head bowed over his own
 hands; on the desk the banknotes, the open medical folder and the open jewellery box;

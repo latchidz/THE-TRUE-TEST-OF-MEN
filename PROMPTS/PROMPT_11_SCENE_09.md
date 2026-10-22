@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S09a_DOOR_OPENS.png` |
-| **LAST FRAME** | `FRAMES/S09b_FOUR_MEN_RISE.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_09/S09a_DOOR_OPENS.png` |
+| **LAST FRAME** | `../SCENES/SCENE_09/S09b_FOUR_MEN_RISE.png` |
 
 **FIRST:** Over the shoulders of four heavily blurred men in the foreground; at the far end the
 frosted-glass door is open and Amin stands in the bright corridor light, head bowed,

@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S07a_STREET_STANDING.png` |
-| **LAST FRAME** | `FRAMES/S07b_STREET_CRYING.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_07/S07a_STREET_STANDING.png` |
+| **LAST FRAME** | `../SCENES/SCENE_07/S07b_STREET_CRYING.png` |
 
 **FIRST:** Wide from far down the street: Amin small, standing, head bowed, eyes on the
 pavement, the folder hanging from his right hand, a long shadow running toward us.

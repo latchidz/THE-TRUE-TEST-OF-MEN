@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S10a_THE_ENVELOPE.png` |
-| **LAST FRAME** | `FRAMES/S10b_TAKING_IT.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_10/S10a_THE_ENVELOPE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_10/S10b_TAKING_IT.png` |
 
 **FIRST:** Side-on profile two-shot: Amin on the left facing right, Youssef on the right facing
 left, sunglasses on, holding out a sealed A4 manila envelope between both hands.

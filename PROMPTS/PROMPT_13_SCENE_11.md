@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S11a_THE_EMBRACE.png` |
-| **LAST FRAME** | `FRAMES/S11b_FIVE_MEN.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_11/S11a_THE_EMBRACE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_11/S11b_FIVE_MEN.png` |
 
 **FIRST:** Side-on embrace: Youssef on the right facing left with his arms around Amin, the
 envelope in his right hand pressed against Amin's back; Amin's face buried in Youssef's

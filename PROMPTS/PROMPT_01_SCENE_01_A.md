@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S01a_OFFICE_WIDE.png` |
-| **LAST FRAME** | `FRAMES/S01b_FATHER_BREAKS.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_01/S01a_OFFICE_WIDE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_01/S01b_FATHER_BREAKS.png` |
 
 **FIRST:** The father is seated on the patient's side of the desk, three-quarter back to us,
 the little girl on the chair beside him, the doctor seated behind the desk with both

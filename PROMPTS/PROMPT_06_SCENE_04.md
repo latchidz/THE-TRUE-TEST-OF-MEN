@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S04a_WORKSHOP_DRAWER.png` |
-| **LAST FRAME** | `FRAMES/S04b_DRAWER_SHUT.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_04/S04a_WORKSHOP_DRAWER.png` |
+| **LAST FRAME** | `../SCENES/SCENE_04/S04b_DRAWER_SHUT.png` |
 
 **FIRST:** From the roller door: Rami on the right, caught with one hand still in an open steel
 drawer of banknotes; Amin on the left in three-quarter, one hand half-lifted, the

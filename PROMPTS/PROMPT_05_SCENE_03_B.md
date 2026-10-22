@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S03b_YOUSSEF_FACE.png` |
-| **LAST FRAME** | `FRAMES/S03c_LEAVING.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_03/S03b_YOUSSEF_FACE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_03/S03c_LEAVING.png` |
 
 **FIRST:** Tight three-quarter of Youssef, sunglasses on, hand on his own chest.
 

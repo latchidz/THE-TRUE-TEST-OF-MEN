@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S02a_ROAD_WALKING.png` |
-| **LAST FRAME** | `FRAMES/S02b_SHOP_DOOR.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_02/S02a_ROAD_WALKING.png` |
+| **LAST FRAME** | `../SCENES/SCENE_02/S02b_SHOP_DOOR.png` |
 
 **FIRST:** Amin mid-stride on the pavement, side-on, the low sun behind him, the folder under
 his right arm, his face in profile, eyes straight ahead.

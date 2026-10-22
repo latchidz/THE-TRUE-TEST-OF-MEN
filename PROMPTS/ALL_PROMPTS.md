@@ -51,8 +51,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S01a_OFFICE_WIDE.png` |
-| **LAST FRAME** | `FRAMES/S01b_FATHER_BREAKS.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_01/S01a_OFFICE_WIDE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_01/S01b_FATHER_BREAKS.png` |
 
 **FIRST:** The father is seated on the patient's side of the desk, three-quarter back to us,
 the little girl on the chair beside him, the doctor seated behind the desk with both
@@ -240,8 +240,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S01b_FATHER_BREAKS.png` |
-| **LAST FRAME** | `FRAMES/S01c_HANDS.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_01/S01b_FATHER_BREAKS.png` |
+| **LAST FRAME** | `../SCENES/SCENE_01/S01c_HANDS.png` |
 
 **FIRST:** Reverse angle: the doctor's blurred shoulder at frame left, the father's face in
 three-quarter view, eyes on the doctor.
@@ -421,8 +421,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S02a_ROAD_WALKING.png` |
-| **LAST FRAME** | `FRAMES/S02b_SHOP_DOOR.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_02/S02a_ROAD_WALKING.png` |
+| **LAST FRAME** | `../SCENES/SCENE_02/S02b_SHOP_DOOR.png` |
 
 **FIRST:** Amin mid-stride on the pavement, side-on, the low sun behind him, the folder under
 his right arm, his face in profile, eyes straight ahead.
@@ -600,8 +600,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S03a_PERFUME_ENTER.png` |
-| **LAST FRAME** | `FRAMES/S03b_YOUSSEF_FACE.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_03/S03a_PERFUME_ENTER.png` |
+| **LAST FRAME** | `../SCENES/SCENE_03/S03b_YOUSSEF_FACE.png` |
 
 **FIRST:** Low symmetrical aisle: Amin walking toward the counter from the left, three-quarter
 back to us; Youssef behind the counter, sunglasses on, head bent, eyes on the counter.
@@ -782,8 +782,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S03b_YOUSSEF_FACE.png` |
-| **LAST FRAME** | `FRAMES/S03c_LEAVING.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_03/S03b_YOUSSEF_FACE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_03/S03c_LEAVING.png` |
 
 **FIRST:** Tight three-quarter of Youssef, sunglasses on, hand on his own chest.
 
@@ -962,8 +962,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S04a_WORKSHOP_DRAWER.png` |
-| **LAST FRAME** | `FRAMES/S04b_DRAWER_SHUT.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_04/S04a_WORKSHOP_DRAWER.png` |
+| **LAST FRAME** | `../SCENES/SCENE_04/S04b_DRAWER_SHUT.png` |
 
 **FIRST:** From the roller door: Rami on the right, caught with one hand still in an open steel
 drawer of banknotes; Amin on the left in three-quarter, one hand half-lifted, the
@@ -1144,8 +1144,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S05a_PHONE_SHOP.png` |
-| **LAST FRAME** | `FRAMES/S05b_KARIM_NO.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_05/S05a_PHONE_SHOP.png` |
+| **LAST FRAME** | `../SCENES/SCENE_05/S05b_KARIM_NO.png` |
 
 **FIRST:** From the glass door down the length of the shop: Karim behind the counter, forearms
 on the glass, eyes down on the phone he is working on; Amin's dark shoulder at the
@@ -1327,8 +1327,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S06a_GROCERY.png` |
-| **LAST FRAME** | `FRAMES/S06b_HAMZA_NO.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_06/S06a_GROCERY.png` |
+| **LAST FRAME** | `../SCENES/SCENE_06/S06b_HAMZA_NO.png` |
 
 **FIRST:** From the pavement into the shop: Hamza behind the old wooden counter, both hands on
 it, head lowered, eyes on the scale; Amin's dark shoulder at the near left.
@@ -1513,8 +1513,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S07a_STREET_STANDING.png` |
-| **LAST FRAME** | `FRAMES/S07b_STREET_CRYING.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_07/S07a_STREET_STANDING.png` |
+| **LAST FRAME** | `../SCENES/SCENE_07/S07b_STREET_CRYING.png` |
 
 **FIRST:** Wide from far down the street: Amin small, standing, head bowed, eyes on the
 pavement, the folder hanging from his right hand, a long shadow running toward us.
@@ -1694,8 +1694,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S08a_THE_PRICE.png` |
-| **LAST FRAME** | `FRAMES/S08b_THE_HAND.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_08/S08a_THE_PRICE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_08/S08b_THE_HAND.png` |
 
 **FIRST:** From the doorway: Amin standing at the near edge of the desk, head bowed over his own
 hands; on the desk the banknotes, the open medical folder and the open jewellery box;
@@ -1876,8 +1876,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S09a_DOOR_OPENS.png` |
-| **LAST FRAME** | `FRAMES/S09b_FOUR_MEN_RISE.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_09/S09a_DOOR_OPENS.png` |
+| **LAST FRAME** | `../SCENES/SCENE_09/S09b_FOUR_MEN_RISE.png` |
 
 **FIRST:** Over the shoulders of four heavily blurred men in the foreground; at the far end the
 frosted-glass door is open and Amin stands in the bright corridor light, head bowed,
@@ -2062,8 +2062,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S10a_THE_ENVELOPE.png` |
-| **LAST FRAME** | `FRAMES/S10b_TAKING_IT.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_10/S10a_THE_ENVELOPE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_10/S10b_TAKING_IT.png` |
 
 **FIRST:** Side-on profile two-shot: Amin on the left facing right, Youssef on the right facing
 left, sunglasses on, holding out a sealed A4 manila envelope between both hands.
@@ -2252,8 +2252,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S11a_THE_EMBRACE.png` |
-| **LAST FRAME** | `FRAMES/S11b_FIVE_MEN.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_11/S11a_THE_EMBRACE.png` |
+| **LAST FRAME** | `../SCENES/SCENE_11/S11b_FIVE_MEN.png` |
 
 **FIRST:** Side-on embrace: Youssef on the right facing left with his arms around Amin, the
 envelope in his right hand pressed against Amin's back; Amin's face buried in Youssef's
@@ -2439,8 +2439,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S12a_THE_WAIT.png` |
-| **LAST FRAME** | `FRAMES/S12b_END.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_12/S12a_THE_WAIT.png` |
+| **LAST FRAME** | `../SCENES/SCENE_12/S12b_END.png` |
 
 **FIRST:** Down the row of orange plastic chairs at night: five men collapsed in different ways
 under a single tube, Amin at the far end with his head back and eyes closed, the envelope

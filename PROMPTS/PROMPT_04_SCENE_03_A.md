@@ -29,8 +29,8 @@ Ingredients .. 3 max        (frames count as 2)
 
 | | الملف |
 |---|---|
-| **FIRST FRAME** | `FRAMES/S03a_PERFUME_ENTER.png` |
-| **LAST FRAME** | `FRAMES/S03b_YOUSSEF_FACE.png` |
+| **FIRST FRAME** | `../SCENES/SCENE_03/S03a_PERFUME_ENTER.png` |
+| **LAST FRAME** | `../SCENES/SCENE_03/S03b_YOUSSEF_FACE.png` |
 
 **FIRST:** Low symmetrical aisle: Amin walking toward the counter from the left, three-quarter
 back to us; Youssef behind the counter, sunglasses on, head bent, eyes on the counter.
